@@ -64,7 +64,7 @@ The imbalanced classification report:
 ![](images/cluster-imbalanced.png)
 
 
-### **Combincation (Over and Under) Sampling**
+### **Combination (Over and Under) Sampling**
 
 The data was over- and under- sampled using the SMOTEENN algorithm.
 
